@@ -31,3 +31,7 @@ t
 Dsrc/main/java/org/example/chapter02/item02/ConvariantReturnType.java,9\4\944da92f906e264796e64c807a2dfc1d46a2d732
 j
 :src/main/java/org/example/chapter02/item02/Covariance.java,2\5\2565c23e41280f4951610bbd39c7bf54b5e1d36b
+d
+4src/main/java/org/example/chapter02/item3/Elvis.java,7\3\73eaa6bda92a2555fd9dade74168910fccbb3f26
+e
+5src/main/java/org/example/chapter02/item04/Stack.java,2\c\2c576c8cde4a34c9548720b21623ed02177f7877
