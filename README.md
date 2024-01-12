@@ -1,2 +1,2 @@
 # effective
-# effective java 학습
+# effective java 학습!!
